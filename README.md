@@ -4,7 +4,7 @@ This repository contains machine learning models designed to predict the score o
 
 ## Features
 ### Score Prediction
--**Ball-by-Ball Data**: Includes comprehensive details such as match ID, date, venue, batting and bowling teams, batsman, bowler, runs, wickets, overs, runs and wickets in the last 5 overs, and total score.
+- **Ball-by-Ball Data**: Includes comprehensive details such as match ID, date, venue, batting and bowling teams, batsman, bowler, runs, wickets, overs, runs and wickets in the last 5 overs, and total score.
 - **Regression Model**: Utilizes a regression approach to predict the score given the batting and bowling teams, current overs, runs, wickets, and performance in the last 5 overs.
 
 ### Winner Prediction
